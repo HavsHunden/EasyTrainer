@@ -25,4 +25,10 @@ namespace Main
             InitializeComponent();
         }
     }
+
+    public class Slot
+    {
+
+    }
+
 }
